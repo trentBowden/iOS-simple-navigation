@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		100151EF23E27C3700AB33F3 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = 100151EE23E27C3700AB33F3 /* Login.swift */; };
+		10893DFB2404BECB0039A3FB /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 10893DFA2404BECB0039A3FB /* README.md */; };
 		10BEDDC223E1B5870099E438 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BEDDC123E1B5870099E438 /* AppDelegate.swift */; };
 		10BEDDC423E1B5870099E438 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BEDDC323E1B5870099E438 /* SceneDelegate.swift */; };
 		10BEDDC623E1B5870099E438 /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10BEDDC523E1B5870099E438 /* LoginVC.swift */; };
@@ -46,6 +47,7 @@
 /* Begin PBXFileReference section */
 		100151EE23E27C3700AB33F3 /* Login.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 		103D8B7023FA2E19007C14FB /* Creating a table.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = "Creating a table.md"; sourceTree = "<group>"; };
+		10893DFA2404BECB0039A3FB /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		10BEDDBE23E1B5870099E438 /* uiKit learning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "uiKit learning.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10BEDDC123E1B5870099E438 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		10BEDDC323E1B5870099E438 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 		10BEDDC023E1B5870099E438 /* uiKit learning */ = {
 			isa = PBXGroup;
 			children = (
+				10893DFA2404BECB0039A3FB /* README.md */,
 				10BEDDC123E1B5870099E438 /* AppDelegate.swift */,
 				10BEDDC323E1B5870099E438 /* SceneDelegate.swift */,
 				10DF974023FE23C600D42B6D /* Controllers */,
@@ -333,6 +336,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				10893DFB2404BECB0039A3FB /* README.md in Resources */,
 				10BEDDCE23E1B5990099E438 /* LaunchScreen.storyboard in Resources */,
 				10BEDDCB23E1B5990099E438 /* Assets.xcassets in Resources */,
 			);
